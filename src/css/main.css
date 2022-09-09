@@ -66,3 +66,13 @@
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
+
+.reports_item {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: 33.33333333%;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 30px;
+}
